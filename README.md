@@ -1,2 +1,2 @@
 # test-demo
-测试测试
+Today is 8/10/2015,I registered github,Come on,xiaogui!
